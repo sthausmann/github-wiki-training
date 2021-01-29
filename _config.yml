@@ -1,1 +1,15 @@
-theme: jekyll-theme-slate
+title: Github-Wiki-Training
+lang: en
+description: Just an example of Github-Pages
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+scss:
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
