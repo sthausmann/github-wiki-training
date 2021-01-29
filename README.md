@@ -4,9 +4,9 @@ This project is the base for a workshop to explain the essential functions of Gi
 
 For more information go to: https://github.com/Gepardec/github-wiki-training/wiki
   
-#### Example Code  
-  
-The code in this repository is just a simple "Hello World!"-Application which only has the purpose of not leaving the repository empty.  
+### Installation guide
+
+Hoory! We forked! And from what I heard I have forked quite expertly
   
 ### Prerequisites for the workshop  
   
